@@ -24,8 +24,9 @@
 
   
   ![TESTHAHA1](https://github.com/LuanAmelIT/Hala_learnC/assets/150274175/bbe104f2-8b20-4372-ae6e-53b85395fe8a)
-+ Như vậy kích thước của biến trên là bằng 1 byte.Uint8 , Uint16, Uint32 thì nhìn vào con số sau mỗi kiểu dữ liệu ta có thể nhận biết được số Bit và Byte của kiểu dữ liệu đó, Unit chữ U có nghĩa là unsigned tức là số nguyên dương, trường hợp không có thì có phạm vi cả nguyên dương và nguyên âm.
-+ 
++ Như vậy kích thước của biến trên là bằng 1 byte.Uint8 , Uint16, Uint32 thì nhìn vào con số sau mỗi kiểu dữ liệu ta có thể nhận biết được số Bit và Byte của kiểu dữ liệu đó, Unit chữ U có nghĩa là unsigned tức là số nguyên dương, trường hợp không có thì có phạm vi cả nguyên dương và nguyên âm.Việc đặt biến để sử dụng lớn hơn phạm vi giá trị của kiểu dữ liệu sẽ xảy ra hiện tượng tràn bộ nhớ. Tính phạm vi giá trị bằng 2^8 hoặc 16 hoặc ....Như vậy đoií với 2^8 bằng  256 từ (0 - 255) thì sẽ có 256 ô lưu.Cũng giống như PLC , ở đây nói về PLC mitsubishi thì khi biến được đưa giá trị vào thì buffert memory sẽ lấy giá trị số đó đưa vào các ô nhớ theo dạng mã nhị phân.
+  ![btplc](https://github.com/LuanAmelIT/Hala_learnC/assets/150274175/5616211c-c15a-4223-8971-a831cf6a6350)
+
   
 
 
