@@ -3,7 +3,10 @@ Sử dụng thư viện #include <stdio.h>  thư viện giao tiếp với màn h
 1.Biến
   + Biến gồm có các kiểu dữ liệu nguyên thủy như : Int , Float , double ....
     Dưới đây là kích thước và phạm vi giá trị của tất cả các kiểu dữ liêu:
-    
+    ![kieu du lieu](https://github.com/LuanAmelIT/Hala_learnC/assets/150274175/2c638789-0cbe-46b8-b804-03991152c42c)
+    ![kieu du lieu 1](https://github.com/LuanAmelIT/Hala_learnC/assets/150274175/0812c7fa-c189-4685-97f3-659ebdba4968)
+
+
   + Trong ngành nhúng sử dụng thư viện #include <stdint.h>. Trong thư viện này có nhưng biến được định nghĩa lại VD: UInt8,UIint16,UInt32.
     Tất cả các biến nguyên thủy điều có kích thước khác nhau.
     
