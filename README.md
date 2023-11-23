@@ -20,4 +20,5 @@ Sử dụng thư viện #include <stdio.h> // thư viện giao tiếp với màn
 + Hàm printf dùng để in ra màm hình console.Hàm này thường đi chung với chổi định dạng nhập xuất theo C.
   %c	char	Xuất ra một ký tự
   %s	char *	Xuất ra một chuỗi ký tự
+  ![chuoi_dinh_dang](https://github.com/LuanAmelIT/Hala_learnC/assets/150274175/630d869b-580e-4a48-82b1-30dd1de26ed5)
     
