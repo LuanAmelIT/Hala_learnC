@@ -2,9 +2,11 @@ Sử dụng thư viện #include <stdio.h>  thư viện giao tiếp với màn h
 
 1.Biến
   + Biến gồm có các kiểu dữ liệu nguyên thủy như : Int , Float , double ....
+    Dưới đây là kích thước và phạm vi giá trị của tất cả các kiểu dữ liêu:
+    
   + Trong ngành nhúng sử dụng thư viện #include <stdint.h>. Trong thư viện này có nhưng biến được định nghĩa lại VD: UInt8,UIint16,UInt32.
     Tất cả các biến nguyên thủy điều có kích thước khác nhau.
-
+    
     
 + Vậy vì sao ngành nhúng không sử dụng kiểu dữ liêu nguyên thủy ? . Do vi điều khiển phạm vi vùng nhớ rất chi là nhỏ. Vi thế nên cần tiết kiệm phạm vi đó để hệ thống hoặt động tốt.
   Đơn cử như nếu chúng ta đọc từ cảm biến nhiệt độ LM35 về Arduino,ta chỉ cần giá trị của nó chỉ lấy 2 chữ số thập phân nếu dùng Int thì dẫn điến phí vùng dữ liệu. Giải pháp tốt nhất
