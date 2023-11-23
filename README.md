@@ -1,4 +1,4 @@
-Sử dụng thư viện #include <stdio.h> // thư viện giao tiếp với màn hinhd console. Tức là những giao tiếp với máy tính của mình. Trong lập trình nhúng ta không sử dụng thư viện này.
+Sử dụng thư viện #include <stdio.h>  thư viện giao tiếp với màn hinhd console. Tức là những giao tiếp với máy tính của mình. Trong lập trình nhúng ta không sử dụng thư viện này.
 
 1.Biến
   + Biến gồm có các kiểu dữ liệu nguyên thủy như : Int , Float , double ....
