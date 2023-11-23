@@ -24,5 +24,15 @@
 
   
   ![TESTHAHA1](https://github.com/LuanAmelIT/Hala_learnC/assets/150274175/bbe104f2-8b20-4372-ae6e-53b85395fe8a)
++ Như vậy kích thước của biến trên là bằng 1 byte.Uint8 , Uint16, Uint32 thì nhìn vào con số sau mỗi kiểu dữ liệu ta có thể nhận biêt được só Bit và Byte của kiểu dữ liệu đó.
+  
+
+
+
+
+
+
+
+
 
   
