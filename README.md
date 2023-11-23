@@ -4,7 +4,7 @@
 1.Biến
   + Biến gồm có các kiểu dữ liệu nguyên thủy như : Int , Float , double ....
     Dưới đây là kích thước và phạm vi giá trị của tất cả các kiểu dữ liêu:
-    ![kieu du lieu](https://github.com/LuanAmelIT/Hala_learnC/assets/150274175/2c638789-0cbe-46b8-b804-03991152c42c)
+    ![unit8](https://github.com/LuanAmelIT/Hala_learnC/assets/150274175/97a60f65-4d2b-4911-b8d8-5a110fa91245)
     ![kieu du lieu 1](https://github.com/LuanAmelIT/Hala_learnC/assets/150274175/0812c7fa-c189-4685-97f3-659ebdba4968)
     
   + Kiểu dữ liệu Enum trong ngôn ngữ C hay còn gọi là kiểu dữ liệu cố định, kiểu liệt kê. Giá trị của một Enum chỉ có thể nhận giá trị là một số các số nguyên cho trước.
