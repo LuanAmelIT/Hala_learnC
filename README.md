@@ -1,5 +1,6 @@
 Sử dụng thư viện #include <stdio.h>  thư viện giao tiếp với màn hinhd console. Tức là những giao tiếp với máy tính của mình. Trong lập trình nhúng ta không sử dụng thư viện này.
 Trong ngành nhúng sử dụng thư viện #include <stdint.h>. Trong thư viện này có nhưng biến được định nghĩa lại VD: UInt8,UIint16,UInt32.
+
 1.Biến
   + Biến gồm có các kiểu dữ liệu nguyên thủy như : Int , Float , double ....
     Dưới đây là kích thước và phạm vi giá trị của tất cả các kiểu dữ liêu:
