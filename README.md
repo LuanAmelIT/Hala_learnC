@@ -21,4 +21,6 @@
   ![chuoi_dinh_dang](https://github.com/LuanAmelIT/Hala_learnC/assets/150274175/630d869b-580e-4a48-82b1-30dd1de26ed5)
     
 + Để biết kích thước của 1 biến ta dùng như sau:
+  ![TESTHAHA1](https://github.com/LuanAmelIT/Hala_learnC/assets/150274175/bbe104f2-8b20-4372-ae6e-53b85395fe8a)
+
   
